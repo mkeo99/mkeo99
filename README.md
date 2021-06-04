@@ -12,4 +12,4 @@ Hi there, I'm Mary, aka @mkeo99 👋
 <img alighn="left" src="https://github-readme-stats.vercel.app/api?username=mkeo99&show_icons=true&theme=dracula" />
 
 ---
-<img alighn="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkeo99&layout=compact" />
+<img alighn="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkeo99&layout=compact&show_icons=true&theme=dracula" />
